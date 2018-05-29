@@ -1,0 +1,33 @@
+{
+    "name": "hetaoo/asyncWriteLog",
+    "description": "The Write to async",
+    "keywords": ["php", "async","log"],
+    "type": "library",
+    "license": "MIT",
+    "homepage": "http://www.dashen66.com",
+
+    "authors": [
+        {
+            "name": "zhangDaMengzi",
+            "email": "1466528038@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^5.3|^7.0"
+    },
+    "replace": {
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
