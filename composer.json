@@ -1,5 +1,5 @@
 {
-    "name": "hetaoo/asyncWriteLog",
+    "name": "hetaoo/async-write-log",
     "description": "The Write to async",
     "keywords": ["php", "async","log"],
     "type": "library",
